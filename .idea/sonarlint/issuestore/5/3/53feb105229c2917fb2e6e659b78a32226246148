@@ -1,0 +1,19 @@
+
+[squid:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8ð¨”ç…-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(õÌÌðúÿÿÿÿ8ð¨”ç…-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(»‡©ýüÿÿÿÿ8ð¨”ç…-
+usquid:S4276"RRefactor this code to use the more specialised Functional Interface 'LongConsumer'(©ç¤öøÿÿÿÿ8ð¨”ç…-
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ëá‚¼øÿÿÿÿ8šœ§ç…-
+usquid:S4276"RRefactor this code to use the more specialised Functional Interface 'LongConsumer'(õÌÌðúÿÿÿÿ8ð¨”ç…-
+Asquid:S2129"Remove this "Long" constructor(ÅÌéîûÿÿÿÿ8ð¨”ç…-
+usquid:S4276"RRefactor this code to use the more specialised Functional Interface 'LongConsumer'(»‡©ýüÿÿÿÿ8ð¨”ç…-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëá‚¼øÿÿÿÿ8ð¨”ç…-
+Ksquid:S1604"(Make this anonymous inner class a lambda(©ç¤öøÿÿÿÿ8ð¨”ç…-
+Asquid:S2129"Remove this "Long" constructor(íÞÑ½øÿÿÿÿ8ð¨”ç…-
+<squid:S2129"Remove this "Long" constructor(ÔØ…±8ð¨”ç…-
+usquid:S4276#"RRefactor this code to use the more specialised Functional Interface 'LongConsumer'(š„–Îùÿÿÿÿ8šœ§ç…-
+;squid:S2129"Remove this "Long" constructor(ßÌ’8ð¨”ç…-
